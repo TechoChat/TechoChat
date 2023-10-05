@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anything that might seem challanging and related to my work :)
 - 📫 Passion to build robots 🤖 and do automation 🦿 as have done diploma mechatronics engineering and now moving forward to lean more on AI 🧠 and related things with computer science as my main branch of degree.
 
+![trophy](https://github-profile-trophy.vercel.app/?username=TechoChat&no-bg=true)
+
 [![An image of @devagile's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devagile)](https://holopin.io/@devagile)
 <!--
 **TechoChat/TechoChat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
