@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=js,flutter,html,css,python,ps,arduino" />
 </p>
 
-[![An image of @devagile's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devagile)](https://holopin.io/@devagile)
+[![An image of @techochat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/techochat)](https://holopin.io/@techochat)
 <!--
 **TechoChat/TechoChat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
