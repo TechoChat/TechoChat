@@ -7,7 +7,7 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=TechoChat&no-bg=true) -->
 <h3> Skills </h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,php,flutter,html,css,python,ps,arduino,raspberrypi,figma" />
+    <img src="https://skillicons.dev/icons?i=js,php,laravel,flutter,html,css,python,ps,arduino,raspberrypi,figma,wordpress" />
 </p>
 
 [![An image of @techochat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/techochat)](https://holopin.io/@techochat)
